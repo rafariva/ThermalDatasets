@@ -3,7 +3,7 @@
 
 ## HR Thermal images
 
-![dataset1.png](dataset1.png)
+![dataset1.png](/images/dataset1.png)
 
 101 images capture with a TAU2 camera with a native resolution of 640x512. Download [HERE](/datasets/dataset1.rar).
 
@@ -22,7 +22,7 @@ Bibtex
 
 ## LR, MR, HR Thermal images
 
-![dataset2.png](dataset2.png)
+![dataset2.png](/images/dataset2.png)
 
 1021 images capture with a three different cameras. Axis Domo P1290 (LR), Axis Q2901-E (MR) and FC-6320 FLIR (HR), with a native resolution of 160x120, 320x240 and 640x512). Download [HERE](/datasets/dataset2.rar).
 
