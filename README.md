@@ -26,7 +26,7 @@ For paper reference (Bibtex)
 
 1021 images captured with three different cameras. Axis Domo P1290 (LR), Axis Q2901-E (MR), and FC-6320 FLIR (HR), with a native resolution of 160x120, 320x240, and 640x512). 950 images for training, 50 for testing; the 20 remaining are not shared because of validation in PBVS-Challenge. The cameras were mounted in a rig to capture the same scene simultaneously. Download [HERE](https://www.dropbox.com/s/wuu0wkrdlcozx9z/challengedataset.rar?dl=0).
 
-This dataset has been used in the Thermal Image Super-Resolution Challenges held in 2020 and 2021 during the IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS).
+This dataset has been used in the Thermal Image Super-Resolution Challenges held in 2020, 2021 and 2022 during the IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS).
 
 
 For paper reference (Bibtex)
