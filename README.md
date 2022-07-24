@@ -64,3 +64,13 @@ For paper reference (Bibtex)
   year={2021}
 }
 ```
+
+```
+@inproceedings{rivadeneira2022thermal,
+  title={Thermal Image Super-Resolution Challenge Results-PBVS 2022},
+  author={Rivadeneira, Rafael E and Sappa, Angel D and Vintimilla, Boris X and Kim, Jin and Kim, Dogun and Li, Zhihao and Jian, Yingchun and Yan, Bo and Cao, Leilei and Qi, Fengliang and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={418--426},
+  year={2022}
+}
+```
