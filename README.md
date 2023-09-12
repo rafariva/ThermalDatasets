@@ -26,7 +26,7 @@ For paper reference (Bibtex)
 
 1021 images captured with three different cameras. Axis Domo P1290 (LR), Axis Q2901-E (MR), and FC-6320 FLIR (HR), with a native resolution of 160x120, 320x240, and 640x512). 950 images for training, 50 for testing; the 20 remaining are not shared because of validation in PBVS-Challenge. The cameras were mounted in a rig to capture the same scene simultaneously. Download [HERE](https://www.dropbox.com/s/wuu0wkrdlcozx9z/challengedataset.rar?dl=0).
 
-This dataset has been used in the Thermal Image Super-Resolution Challenges held in 2020, 2021 and 2022 during the IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS).
+This dataset has been used in the Thermal Image Super-Resolution Challenges held in 2020, 2021, 2022 and 2023 during the IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS).
 
 
 For paper reference (Bibtex)
@@ -74,3 +74,17 @@ For paper reference (Bibtex)
   year={2022}
 }
 ```
+
+```
+@inproceedings{rivadeneira2023thermal,
+  title={Thermal Image Super-Resolution Challenge Results-PBVS 2023},
+  author={Rivadeneira, Rafael E and Sappa, Angel D and Vintimilla, Boris X and Bin, Dai and Ruodi, Li and Shengye, Li and Zhong, Zhiwei and Liu, Xianming and Jiang, Junjun and Wang, Chenyang},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={470--478},
+  year={2023}
+}
+```
+
+## CrossEspectral Dataset
+
+Work in progress...
