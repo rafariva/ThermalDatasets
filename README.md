@@ -44,6 +44,8 @@ For paper reference (Bibtex)
 
 ## CrossEspectral Dataset
 
+![dataset3.png](/images/dataset3.png)
+
 This dataset consists of 1000 pairs of images, captured using Balser and TAU2 visible and thermal spectrum cameras respectively. Worth mentioning that these two types of images come in different resolutions and spectrums, visible images with a native resolution of 1280$\times$1024 (using a 13mm lens) and thermal images with a resolution of 640$\times$480 (using an 8mm lens). The dataset is organized into three sets: training, validation, and testing. There are 700 image pairs for training, 200 for validation, and 100 for testing (not shared). Download [HERE](https://1drv.ms/u/s!Aq8mFtJTbzFtgc51EHSpo8DpTDrusg?e=UaDS91).
 
 This dataset has been used in the Thermal Image Super-Resolution Challenges held in 2024 during the IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS).
