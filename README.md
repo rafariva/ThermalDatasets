@@ -42,6 +42,24 @@ For paper reference (Bibtex)
 ```
 
 
+## CrossEspectral Dataset
+
+This dataset consists of 1000 pairs of images, captured using Balser and TAU2 visible and thermal spectrum cameras respectively. Worth mentioning that these two types of images come in different resolutions and spectrums, visible images with a native resolution of 1280$\times$1024 (using a 13mm lens) and thermal images with a resolution of 640$\times$480 (using an 8mm lens). The dataset is organized into three sets: training, validation, and testing. There are 700 image pairs for training, 200 for validation, and 100 for testing (not shared). Download [HERE](https://1drv.ms/u/s!Aq8mFtJTbzFtgc51EHSpo8DpTDrusg?e=UaDS91).
+
+This dataset has been used in the Thermal Image Super-Resolution Challenges held in 2024 during the IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS).
+
+
+For paper reference (Bibtex)
+```
+@inproceedings{rivadeneira2024cross,
+  title={Cross-Spectral Image Registration: a Comparative Study and a New Benchmark Dataset},
+  author={Rivadeneira, Rafael E and Velesaca, Henry O. and Sappa, Angel D.},
+  booktitle={Proceedings of International Conference on Innovations in Computational Intelligence and Computer Vision (ICICV)},
+  year={2024}
+}
+```
+
+
 
 ## CVPR PBVS-Challenges
 
@@ -85,6 +103,12 @@ For paper reference (Bibtex)
 }
 ```
 
-## CrossEspectral Dataset
-
-Work in progress...
+```
+@inproceedings{rivadeneira2024thermal,
+  title={Thermal Image Super-Resolution Challenge Results-PBVS 2024},
+  author={Rivadeneira, Rafael E and Sappa, Angel D and Wang, Chenyang and Jiang, Junjun and Zhong, Zhiwei and Chen, Peilin and Wang, Shiqi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3113--3122},
+  year={2024}
+}
+```
